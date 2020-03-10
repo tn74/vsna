@@ -1,2 +1,3 @@
 # No frontend build
 frontend/django_integration/templates/build
+**.swp
